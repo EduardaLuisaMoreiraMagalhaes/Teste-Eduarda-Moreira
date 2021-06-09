@@ -3,6 +3,8 @@ Teste Eduarda Moreira 2021
 
 Repositorio criado por Eduarda Luisa Moreira Magalhães
 
-O projeto foi criado para teste, tirei notias que aconteceu entre as 24 hrs
-08/05/2021
+Noticias  das ultimas 24 horas do dia 08/05/2021
 
+Minha motivção veio de que eu posso sempre esta aparedendo para fzer o melhor
+
+ATENCIOSAMENTE, EDUARDA
